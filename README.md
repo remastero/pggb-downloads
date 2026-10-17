@@ -1,6 +1,6 @@
 # PGGB downloads
 
-**Current version: PGGB 9.1.04**
+**Current version: PGGB 9.1.06**
 
 Each link below downloads the newest version. Earlier versions are on the [Past releases](PAST-RELEASES.md) page.
 
@@ -64,8 +64,10 @@ The same Mac app as a disk image: drag the apps into Applications, then install 
 - Apple Silicon: [PGGB-Mac-Apple-Silicon.dmg](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Mac-Apple-Silicon.dmg)
 - Intel: [PGGB-Mac-Intel.dmg](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Mac-Intel.dmg) (the Intel Mac note above applies)
 
+### Removing PGGB from a Mac
+
+- [PGGB-Mac-Uninstall.pkg](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Mac-Uninstall.pkg) removes PGGB, PGGB Bridge, the PAL endpoint and Direct Ethernet for PGGB-Audio-Link from an Apple silicon or Intel Mac. Your settings, your license and your music stay.
+
 ## About the "Source code" files
 
 GitHub adds "Source code (zip)" and "Source code (tar.gz)" to every release by itself, and a "Code" button to this page; they cannot be removed. They hold only the text of these pages, not PGGB. Please use the files listed above.
-
-**Open-source components**: PGGB uses five libraries under the LGPL 2.1. Their exact sources, our changes and the license are in [PGGB 9.1.05 open-source sources](https://github.com/remastero/pggb-downloads/releases/tag/sources-9.1.05).
