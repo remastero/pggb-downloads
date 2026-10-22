@@ -55,6 +55,13 @@ Install the endpoint on the computer connected to your DAC. Choose its operating
 - Intel / AMD 64-bit (.pkg.tar.zst): [pggb-audio-link-x86_64.pkg.tar.zst](https://github.com/remastero/pggb-downloads/releases/latest/download/pggb-audio-link-x86_64.pkg.tar.zst)
 - ARM64 (.pkg.tar.zst): [pggb-audio-link-aarch64.pkg.tar.zst](https://github.com/remastero/pggb-downloads/releases/latest/download/pggb-audio-link-aarch64.pkg.tar.zst)
 
+### PAL OS (Raspberry Pi)
+
+A ready-made system with PGGB-Audio-Link (PAL) built in. Write the image to a microSD card with Raspberry Pi Imager. The optional checksum file lets you check that the download is intact.
+
+- Raspberry Pi 5: [pal-os-rpi5.img.xz](https://github.com/remastero/pggb-downloads/releases/latest/download/pal-os-rpi5.img.xz) (checksum: [pal-os-rpi5-sha256.txt](https://github.com/remastero/pggb-downloads/releases/latest/download/pal-os-rpi5-sha256.txt))
+- Raspberry Pi 4: [pal-os-rpi4.img.xz](https://github.com/remastero/pggb-downloads/releases/latest/download/pal-os-rpi4.img.xz) (checksum: [pal-os-rpi4-sha256.txt](https://github.com/remastero/pggb-downloads/releases/latest/download/pal-os-rpi4-sha256.txt))
+
 ## Other downloads
 
 ### Mac disk images (.dmg)
