@@ -80,4 +80,4 @@ The same Mac app as a disk image: drag the apps into Applications, then install 
 
 GitHub adds "Source code (zip)" and "Source code (tar.gz)" to every release by itself, and a "Code" button to this page; they cannot be removed. They hold only the text of these pages, not PGGB. Please use the files listed above.
 
-**Open-source components**: PGGB uses five libraries under the LGPL 2.1. Their exact sources, our changes and the license are in [PGGB 9.1.06 open-source sources](https://github.com/remastero/pggb-downloads/releases/tag/sources-9.1.06).
+**Open-source components**: PGGB uses five libraries under the LGPL 2.1. Their exact sources, our changes and the license are in [PGGB 9.1.42 open-source sources](https://github.com/remastero/pggb-downloads/releases/tag/sources-9.1.06).
