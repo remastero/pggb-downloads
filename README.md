@@ -1,8 +1,8 @@
 # PGGB downloads
 
-**Current version: PGGB 9.1.07**
+**Current version: PGGB 9.1.42**
 
-Each link below downloads the newest version. Earlier versions are on the [Past releases](PAST-RELEASES.md) page.
+Each link below downloads the newest version.
 
 ## PGGB app
 
@@ -34,7 +34,8 @@ Install the endpoint on the computer connected to your DAC. Choose its operating
 ### Windows
 
 - Installer: [PGGB-Audio-Link-Windows-Setup.exe](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Audio-Link-Windows-Setup.exe)
-- Portable command-line endpoint: [PGGB-Audio-Link-Windows-Portable.exe](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Audio-Link-Windows-Portable.exe)
+- Command-line endpoint with starter (.zip): [PGGB-Audio-Link-Windows-Portable.zip](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Audio-Link-Windows-Portable.zip). Extract both files into one folder, then open `Start-PGGB-Audio-Link.bat`.
+- Command-line endpoint only (.exe, optional): [PGGB-Audio-Link-Windows-Portable.exe](https://github.com/remastero/pggb-downloads/releases/latest/download/PGGB-Audio-Link-Windows-Portable.exe). Use this if you manage startup and firewall access yourself.
 
 ### Mac
 
