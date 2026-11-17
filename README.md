@@ -1,6 +1,6 @@
 # PGGB downloads
 
-**Current version: PGGB 9.1.46**
+**Current version: PGGB 9.1.47**
 
 Each link below downloads the newest version.
 
